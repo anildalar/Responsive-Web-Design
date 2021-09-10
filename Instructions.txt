@@ -1,0 +1,42 @@
+HTML5 Structure
+CSS3	Presentation (Designing)
+BOOTSTRAP 5,4,3,2,1   (RWD Responsive Web Design)
+
+JAVASCRIPT
+jQUERY
+
+Boostrap works on 12 Column Grid System
+
+Blocking Technique
+
+CSS Classes can by of 2 type
+1. User Defined (anil_box)
+2. Pre Defined (Bootrap)
+
+Golden Rule
+Always target the user Defined class
+
+Always Remove Parent Height when all the children are given their height
+
+BS5
+s=start (Left)
+ps-0 
+
+e =end (Right)
+pe-0
+
+t = top
+pt-0
+
+bottom
+pb-0
+
+All Side (TRBL)
+p-0
+
+
+BS4
+
+pl-0
+amp = ampersand = &
+HTML entity Code = &amp;
